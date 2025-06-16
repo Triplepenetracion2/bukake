@@ -143,3 +143,8 @@
 [02:19:57] [Server thread/INFO]: _elu lost connection: Disconnected
 [02:19:57] [Server thread/INFO]: _elu left the game
 [02:22:05] [Server thread/INFO]: zknw has made the advancement [Enchanter]
+[02:29:07] [Server thread/INFO]: zknw issued server command: /shop
+[02:29:12] [Server thread/INFO]: zknw issued server command: /bal
+[02:29:22] [Server thread/INFO]: zknw issued server command: /mspt
+[02:29:34] [Server thread/INFO]: zknw issued server command: /tps
+[02:32:07] [Server thread/INFO]: zknw issued server command: /home
