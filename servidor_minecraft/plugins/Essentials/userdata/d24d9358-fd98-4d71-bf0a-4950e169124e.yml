@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1750037019886
+  logout: 1750040397736
   login: 1750037053283
 money: '0'
 last-account-name: _elu
 logoutlocation:
   world: 96a6940e-c4f2-419d-a13f-0d8f1d07ee76
   world-name: world
-  x: -414.19910329490824
-  y: 104.24918707874468
-  z: -526.6073361720297
-  yaw: 60.826416015625
-  pitch: 7.472137451171875
+  x: -1355.8460084634978
+  y: 64.0
+  z: -1044.5779140771508
+  yaw: 156.90338134765625
+  pitch: 32.838478088378906
 lastlocation:
   world: 96a6940e-c4f2-419d-a13f-0d8f1d07ee76
   world-name: world

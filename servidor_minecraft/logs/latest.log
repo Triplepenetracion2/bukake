@@ -138,3 +138,8 @@
 [02:15:35] [Server thread/INFO]: [InfernalMobs] [STDOUT] Can't spawn mount!
 [02:15:35] [Server thread/WARN]: Nag author(s): '[Eliminator]' of 'InfernalMobs v6.7' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
 [02:15:35] [Server thread/INFO]: [InfernalMobs] [STDOUT] MUSHROOM_COW is not a valid Entity!
+[02:18:04] [Server thread/INFO]: zknw issued server command: /home
+[02:19:26] [Server thread/INFO]: Named entity EntitySkeleton['Infernal Skeleton'/23625, uuid='e9fce1dd-4bbc-49e5-96ed-33a9e8627256', l='ServerLevel[world]', x=-1313.06, y=13.65, z=-1079.70, cpos=[-83, -68], tl=783, v=true] died: Infernal Skeleton was slain by Zoglin
+[02:19:57] [Server thread/INFO]: _elu lost connection: Disconnected
+[02:19:57] [Server thread/INFO]: _elu left the game
+[02:22:05] [Server thread/INFO]: zknw has made the advancement [Enchanter]
