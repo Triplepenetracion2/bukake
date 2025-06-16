@@ -103,3 +103,11 @@
 [01:12:45] [Async Chat Thread - #7/INFO]: <zknw> asd
 [01:13:03] [Server thread/INFO]: Made zknw a server operator
 [01:15:06] [Server thread/INFO]: zknw issued server command: /tps
+[01:19:56] [Server thread/WARN]: _elu moved too quickly! -11.630519054580205,0.7967356006687112,-1.745573817955119
+[01:20:21] [Server thread/WARN]: _elu moved too quickly! 10.024661203530354,4.998664020887858,-18.25214475330182
+[01:23:39] [Server thread/WARN]: _elu was kicked for floating too long!
+[01:23:39] [Server thread/INFO]: _elu lost connection: Flying is not enabled on this server
+[01:23:39] [Server thread/INFO]: _elu left the game
+[01:24:13] [User Authenticator #3/INFO]: UUID of player _elu is d24d9358-fd98-4d71-bf0a-4950e169124e
+[01:24:13] [Server thread/INFO]: _elu joined the game
+[01:24:13] [Server thread/INFO]: _elu[/127.135.227.91:33879] logged in with entity id 6275 at ([world]-414.19910329490824, 103.05411736736092, -526.6073361720297)

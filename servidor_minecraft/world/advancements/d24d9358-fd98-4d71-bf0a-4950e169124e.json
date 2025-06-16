@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-06-16 01:22:37 +0000",
       "minecraft:savanna_plateau": "2025-06-16 00:31:41 +0000",
       "minecraft:stony_peaks": "2025-06-16 00:25:50 +0000",
       "minecraft:sparse_jungle": "2025-06-16 00:07:34 +0000",
@@ -14,7 +15,9 @@
       "minecraft:river": "2025-06-16 00:30:02 +0000",
       "minecraft:stony_shore": "2025-06-16 00:07:20 +0000",
       "minecraft:forest": "2025-06-16 00:10:34 +0000",
+      "minecraft:old_growth_birch_forest": "2025-06-16 01:23:15 +0000",
       "minecraft:deep_dark": "2025-06-16 00:26:24 +0000",
+      "minecraft:meadow": "2025-06-16 01:22:24 +0000",
       "minecraft:savanna": "2025-06-16 01:11:09 +0000",
       "minecraft:plains": "2025-06-16 00:08:16 +0000"
     },
@@ -889,6 +892,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-06-16 01:18:17 +0000",
       "minecraft:spider": "2025-06-16 01:09:44 +0000",
       "minecraft:slime": "2025-06-16 01:05:41 +0000",
       "minecraft:zombie": "2025-06-16 00:25:38 +0000"
@@ -1231,9 +1235,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-06-16 01:18:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-06-16 00:57:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-06-16 01:18:50 +0000"
     },
     "done": true
   },
@@ -1258,6 +1274,12 @@
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2025-06-16 01:05:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-06-16 01:18:53 +0000"
     },
     "done": true
   },
@@ -1321,9 +1343,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-06-16 01:18:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-06-16 01:05:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-06-16 01:18:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-06-16 01:18:12 +0000"
     },
     "done": true
   },
@@ -1336,6 +1376,12 @@
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-16 01:07:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-06-16 01:18:50 +0000"
     },
     "done": true
   },
