@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.18.75.243
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1750032379530
+  login: 1750032430929
+money: '0'
+last-account-name: zknw
+logoutlocation:
+  world: 96a6940e-c4f2-419d-a13f-0d8f1d07ee76
+  world-name: world
+  x: -437.2620292487345
+  y: 32.0
+  z: -487.5218833451679
+  yaw: 168.1441650390625
+  pitch: 13.005663871765137
+lastlocation:
+  world: 96a6940e-c4f2-419d-a13f-0d8f1d07ee76
+  world-name: world
+  x: -402.27878803403286
+  y: 72.0
+  z: -353.2294367924478
+  yaw: -34.1707763671875
+  pitch: 11.315317153930664
