@@ -117,3 +117,13 @@
 [01:39:50] [Server thread/INFO]: zknw issued server command: /invsee _elu
 [01:39:58] [Server thread/INFO]: zknw issued server command: /invsee _elu
 [01:46:53] [Server thread/INFO]: _elu has made the advancement [Not Today, Thank You]
+[01:49:26] [Server thread/INFO]: zknw issued server command: /sethome
+[01:49:26] [Server thread/INFO]: Named entity EntitySkeleton['Infernal Skeleton'/13584, uuid='b342d4e3-be9e-4353-ab29-016c0b1daf9f', l='ServerLevel[world]', x=-1354.81, y=30.45, z=-1193.53, cpos=[-85, -75], tl=1580, v=true] died: Infernal Skeleton suffocated in a wall
+[01:49:53] [Server thread/INFO]: _elu issued server command: /tp zknw
+[01:50:17] [Server thread/INFO]: zknw issued server command: /tp _elu
+[01:50:46] [Server thread/INFO]: _elu issued server command: /sethome a
+[01:51:57] [Server thread/INFO]: _elu has made the advancement [Ice Bucket Challenge]
+[01:52:41] [Server thread/INFO]: zknw issued server command: /home
+[01:56:38] [Server thread/INFO]: _elu issued server command: /sethome dm
+[01:56:42] [Server thread/INFO]: _elu issued server command: /tp zknw
+[01:57:03] [Server thread/INFO]: _elu issued server command: /home dm
