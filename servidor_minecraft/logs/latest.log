@@ -112,3 +112,8 @@
 [01:24:13] [Server thread/INFO]: _elu joined the game
 [01:24:13] [Server thread/INFO]: _elu[/127.135.227.91:33879] logged in with entity id 6275 at ([world]-414.19910329490824, 103.05411736736092, -526.6073361720297)
 [01:28:08] [Server thread/INFO]: _elu issued server command: /tp zknw
+[01:39:41] [Server thread/INFO]: _elu issued server command: /plugins
+[01:39:46] [Server thread/INFO]: zknw issued server command: /invsee
+[01:39:50] [Server thread/INFO]: zknw issued server command: /invsee _elu
+[01:39:58] [Server thread/INFO]: zknw issued server command: /invsee _elu
+[01:46:53] [Server thread/INFO]: _elu has made the advancement [Not Today, Thank You]
