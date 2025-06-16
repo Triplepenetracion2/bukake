@@ -72,3 +72,7 @@
 [14:08:37] [Server thread/INFO]: _elu[/127.135.227.91:59065] logged in with entity id 74 at ([world]-1355.8460084634978, 64.0, -1044.5779140771508)
 [14:13:57] [Server thread/INFO]: _elu has made the advancement [We Need to Go Deeper]
 [14:15:18] [Server thread/INFO]: _elu issued server command: /give _elu bookshelf 6
+[14:21:36] [Async Chat Thread - #2/INFO]: <_elu> ass
+[14:25:06] [Server thread/INFO]: [InfernalMobs] [STDOUT] Can't spawn mount!
+[14:25:06] [Server thread/WARN]: Nag author(s): '[Eliminator]' of 'InfernalMobs v6.7' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[14:25:06] [Server thread/INFO]: [InfernalMobs] [STDOUT] MUSHROOM_COW is not a valid Entity!
