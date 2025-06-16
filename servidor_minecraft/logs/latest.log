@@ -131,3 +131,10 @@
 [02:02:11] [Server thread/INFO]: zknw issued server command: /home
 [02:02:47] [Server thread/INFO]: Named entity EntitySkeleton['Infernal Skeleton'/15974, uuid='fcc33c46-d6ef-4745-bfcc-8829a535d47c', l='ServerLevel[world]', x=-1492.79, y=34.37, z=-1140.75, cpos=[-94, -72], tl=5176, v=true] died: Infernal Skeleton suffocated in a wall
 [02:07:07] [Server thread/INFO]: Named entity EntitySkeleton['Infernal Skeleton'/17464, uuid='bf606a13-5e44-4473-860a-89e8dff67a53', l='ServerLevel[world]', x=-1284.30, y=40.60, z=-1023.16, cpos=[-81, -64], tl=6553, v=true] died: Infernal Skeleton suffocated in a wall
+[02:10:45] [Server thread/INFO]: An Infernal Bat was slain by _elu!
+[02:10:45] [Server thread/INFO]: Named entity EntityBat['Infernal Bat'/17088, uuid='0ee618b4-0708-4673-8624-5cdc2e9ddb51', l='ServerLevel[world]', x=-1203.39, y=-19.53, z=-951.51, cpos=[-76, -60], tl=12411, v=true] died: Infernal Bat was slain by _elu
+[02:12:36] [Server thread/INFO]: Named entity EntitySkeleton['Infernal Skeleton'/19333, uuid='4a923eb6-fc48-44a1-84bb-4d1880fbfd19', l='ServerLevel[world]', x=-1422.30, y=41.95, z=-1156.30, cpos=[-89, -73], tl=2848, v=true] died: Infernal Skeleton suffocated in a wall
+[02:14:19] [Server thread/INFO]: _elu issued server command: /home a
+[02:15:35] [Server thread/INFO]: [InfernalMobs] [STDOUT] Can't spawn mount!
+[02:15:35] [Server thread/WARN]: Nag author(s): '[Eliminator]' of 'InfernalMobs v6.7' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
+[02:15:35] [Server thread/INFO]: [InfernalMobs] [STDOUT] MUSHROOM_COW is not a valid Entity!
