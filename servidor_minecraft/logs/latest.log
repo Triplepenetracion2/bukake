@@ -127,3 +127,7 @@
 [01:56:38] [Server thread/INFO]: _elu issued server command: /sethome dm
 [01:56:42] [Server thread/INFO]: _elu issued server command: /tp zknw
 [01:57:03] [Server thread/INFO]: _elu issued server command: /home dm
+[01:59:51] [Server thread/INFO]: Named entity EntitySkeleton['Infernal Skeleton'/15468, uuid='1961d0c1-421c-460e-b98e-dece581d3395', l='ServerLevel[world]', x=-1494.79, y=69.37, z=-1118.55, cpos=[-94, -70], tl=6349, v=true] died: Infernal Skeleton burned to death
+[02:02:11] [Server thread/INFO]: zknw issued server command: /home
+[02:02:47] [Server thread/INFO]: Named entity EntitySkeleton['Infernal Skeleton'/15974, uuid='fcc33c46-d6ef-4745-bfcc-8829a535d47c', l='ServerLevel[world]', x=-1492.79, y=34.37, z=-1140.75, cpos=[-94, -72], tl=5176, v=true] died: Infernal Skeleton suffocated in a wall
+[02:07:07] [Server thread/INFO]: Named entity EntitySkeleton['Infernal Skeleton'/17464, uuid='bf606a13-5e44-4473-860a-89e8dff67a53', l='ServerLevel[world]', x=-1284.30, y=40.60, z=-1023.16, cpos=[-81, -64], tl=6553, v=true] died: Infernal Skeleton suffocated in a wall
