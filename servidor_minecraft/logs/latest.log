@@ -77,3 +77,5 @@
 [14:25:06] [Server thread/WARN]: Nag author(s): '[Eliminator]' of 'InfernalMobs v6.7' about their usage of System.out/err.print. Please use your plugin's logger instead (JavaPlugin#getLogger).
 [14:25:06] [Server thread/INFO]: [InfernalMobs] [STDOUT] MUSHROOM_COW is not a valid Entity!
 [14:41:22] [Async Chat Thread - #3/INFO]: <_elu> asd
+[14:50:27] [Server thread/INFO]: _elu issued server command: /home a
+[14:54:08] [Server thread/INFO]: Named entity EntityBat['Infernal Bat'/6290, uuid='509b4636-eaf9-4f65-92bc-2503f72af53b', l='ServerLevel[world]', x=-1294.60, y=8.39, z=-1083.44, cpos=[-81, -68], tl=2536, v=true] died: Infernal Bat burned to death
