@@ -98,3 +98,8 @@
 [01:03:43] [Async Chat Thread - #3/INFO]: <zknw> asd
 [01:04:23] [Server thread/INFO]: Made _elu a server operator
 [01:04:38] [Server thread/INFO]: _elu issued server command: /tp zknw _elu
+[01:08:04] [Server thread/INFO]: zknw has completed the challenge [It Spreads]
+[01:12:43] [Async Chat Thread - #5/INFO]: <_elu> asd
+[01:12:45] [Async Chat Thread - #7/INFO]: <zknw> asd
+[01:13:03] [Server thread/INFO]: Made zknw a server operator
+[01:15:06] [Server thread/INFO]: zknw issued server command: /tps
