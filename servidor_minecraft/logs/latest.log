@@ -79,3 +79,5 @@
 [14:41:22] [Async Chat Thread - #3/INFO]: <_elu> asd
 [14:50:27] [Server thread/INFO]: _elu issued server command: /home a
 [14:54:08] [Server thread/INFO]: Named entity EntityBat['Infernal Bat'/6290, uuid='509b4636-eaf9-4f65-92bc-2503f72af53b', l='ServerLevel[world]', x=-1294.60, y=8.39, z=-1083.44, cpos=[-81, -68], tl=2536, v=true] died: Infernal Bat burned to death
+[15:02:56] [Server thread/INFO]: _elu has made the advancement [Cover Me with Diamonds]
+[15:03:12] [Server thread/INFO]: Named entity EntityZombie['Infernal Zombie'/5761, uuid='b9f46f5b-6ede-4dd5-8c1c-b2e1402290e0', l='ServerLevel[world]', x=-1329.73, y=16.52, z=-1160.51, cpos=[-84, -73], tl=17816, v=true] died: Infernal Zombie suffocated in a wall
