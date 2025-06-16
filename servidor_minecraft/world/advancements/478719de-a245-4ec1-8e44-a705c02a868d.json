@@ -11,12 +11,15 @@
       "minecraft:savanna_plateau": "2025-06-16 00:33:13 +0000",
       "minecraft:beach": "2025-06-15 21:06:33 +0000",
       "minecraft:stony_peaks": "2025-06-16 00:18:31 +0000",
+      "minecraft:dark_forest": "2025-06-16 01:25:29 +0000",
       "minecraft:sparse_jungle": "2025-06-15 20:35:15 +0000",
       "minecraft:lukewarm_ocean": "2025-06-15 20:59:39 +0000",
       "minecraft:river": "2025-06-15 21:06:51 +0000",
       "minecraft:stony_shore": "2025-06-15 20:37:01 +0000",
       "minecraft:dripstone_caves": "2025-06-15 21:41:17 +0000",
+      "minecraft:cold_ocean": "2025-06-16 01:27:15 +0000",
       "minecraft:forest": "2025-06-15 20:44:58 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-06-16 01:26:41 +0000",
       "minecraft:old_growth_birch_forest": "2025-06-15 21:15:36 +0000",
       "minecraft:deep_dark": "2025-06-15 21:24:34 +0000",
       "minecraft:meadow": "2025-06-16 01:22:16 +0000",
@@ -414,6 +417,7 @@
       "cooked_porkchop": "2025-06-15 20:49:12 +0000",
       "cooked_beef": "2025-06-15 21:40:05 +0000",
       "tropical_fish": "2025-06-15 21:01:19 +0000",
+      "bread": "2025-06-16 01:29:29 +0000",
       "rotten_flesh": "2025-06-15 21:20:46 +0000",
       "melon_slice": "2025-06-15 20:43:34 +0000"
     },
@@ -1749,15 +1753,81 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-06-16 01:28:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_mob_near_sculk_catalyst": {
     "criteria": {
       "kill_mob_near_sculk_catalyst": "2025-06-16 01:08:04 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-06-16 01:30:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-06-16 01:12:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-06-16 01:29:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-06-16 01:28:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-06-16 01:30:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-06-16 01:28:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-06-16 01:29:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-06-16 01:29:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-06-16 01:30:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2025-06-16 01:29:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-06-16 01:29:16 +0000"
     },
     "done": true
   },
