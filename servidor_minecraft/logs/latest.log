@@ -81,3 +81,37 @@
 [14:54:08] [Server thread/INFO]: Named entity EntityBat['Infernal Bat'/6290, uuid='509b4636-eaf9-4f65-92bc-2503f72af53b', l='ServerLevel[world]', x=-1294.60, y=8.39, z=-1083.44, cpos=[-81, -68], tl=2536, v=true] died: Infernal Bat burned to death
 [15:02:56] [Server thread/INFO]: _elu has made the advancement [Cover Me with Diamonds]
 [15:03:12] [Server thread/INFO]: Named entity EntityZombie['Infernal Zombie'/5761, uuid='b9f46f5b-6ede-4dd5-8c1c-b2e1402290e0', l='ServerLevel[world]', x=-1329.73, y=16.52, z=-1160.51, cpos=[-84, -73], tl=17816, v=true] died: Infernal Zombie suffocated in a wall
+[15:20:01] [Server thread/INFO]: Named entity EntityBat['Infernal Bat'/9889, uuid='2c1dc633-1e99-45d8-84e9-7d6eddc04267', l='ServerLevel[world]', x=-1372.53, y=27.42, z=-1126.87, cpos=[-86, -71], tl=1318, v=true] died: Infernal Bat tried to swim in lava
+[15:20:30] [Server thread/INFO]: _elu lost connection: Disconnected
+[15:20:30] [Server thread/INFO]: _elu left the game
+[15:20:38] [Server thread/INFO]: Stopping the server
+[15:20:38] [Server thread/INFO]: Stopping server
+[15:20:38] [Server thread/INFO]: [InfernalMobs] Disabling InfernalMobs v6.7
+[15:20:38] [Server thread/INFO]: [GSit] Disabling GSit v2.3.3
+[15:20:38] [Server thread/INFO]: [GSit] The plugin was successfully disabled.
+[15:20:38] [Server thread/INFO]: [SmoothTimber] Disabling SmoothTimber v1.27.5
+[15:20:38] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.1
+[15:20:38] [Server thread/INFO]: Saving players
+[15:20:39] [Server thread/INFO]: Saving worlds
+[15:20:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:20:39] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[15:20:39] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[15:20:39] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[15:20:39] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 40 entity chunks, 0 poi chunks in world 'world' in 0.01s
+[15:20:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:20:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[15:20:39] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[15:20:39] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[15:20:39] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[15:20:39] [Server thread/INFO]: [ChunkHolderManager] Saved 409 block chunks, 70 entity chunks, 0 poi chunks in world 'world_nether' in 0.26s
+[15:20:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:20:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[15:20:39] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[15:20:39] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[15:20:39] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[15:20:39] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[15:20:39] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:20:39] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:20:39] [Server thread/INFO]: Flushing Chunk IO
+[15:20:39] [Server thread/INFO]: Closing Thread Pool
+[15:20:39] [Server thread/INFO]: Closing Server
